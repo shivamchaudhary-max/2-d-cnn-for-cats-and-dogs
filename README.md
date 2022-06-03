@@ -1,2 +1,2 @@
-# 2-d-cnn-for-cats-and-dogs
+# 2-D-cnn-for-cats-and-dogs
 description is given in a code 
